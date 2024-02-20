@@ -1,5 +1,5 @@
-# mint-logo-colors
-The Mint Logo used on the menu Icons but in different colors
+# Linux Mint Color Logos
+The Mint Logo used on the menu Icons but in different colors using the Yaru Color scheme to base those colors. All rights go to LM for the distrobution and brand itself. I just like pretty colors.
 
 
 **Hex-Color codes of all base colors**   
