@@ -1,5 +1,16 @@
 # Linux Mint Color Logos
 The Mint Logo used on the menu Icons but in different colors using the Yaru Color scheme to base those colors. All rights go to LM for the distrobution and brand itself. I just like pretty colors.
+**Mint Modern:**
+![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/119f32d9-7dce-4999-bf4e-82692990c876)
+
+**Mint Cool:**
+![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/93a50894-7fea-4b3a-a1d4-c45e9cbc19d7)
+
+**Mint Classic:**
+![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/f897e5b4-6758-40e6-be37-6a02549cdb85)
+
+**Mint Radical:**
+![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/586cd1c6-4179-46a3-a174-8b4facdd1435)
 
 
 **Hex-Color codes of all base colors**   
