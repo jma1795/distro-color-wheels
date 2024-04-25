@@ -2,6 +2,7 @@
 The Logos used on the menu Icons but in different colors using the Yaru Color scheme to base those colors. All rights go to whatever distro for the distrobution and brand itself. I just like pretty colors and who can blame me for that.
 
 **Mint Modern:**
+
 ![lm-logo-modern](https://github.com/jma1795/distro-color-wheels/assets/88217087/36fcd4dc-4d70-441a-bf81-3eb3dd594fa4)
 
 
@@ -21,6 +22,7 @@ The Logos used on the menu Icons but in different colors using the Yaru Color sc
 
 
 **Pop_OS!:**
+
 ![Pop_OS!](https://github.com/jma1795/distro-color-wheels/assets/88217087/6b39fe2d-7ce5-489a-8697-31e6241cb3f5)
 
 
