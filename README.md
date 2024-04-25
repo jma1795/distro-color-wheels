@@ -1,21 +1,27 @@
-# Linux Mint Color Logos
-The Mint Logo used on the menu Icons but in different colors using the Yaru Color scheme to base those colors. All rights go to LM for the distrobution and brand itself. I just like pretty colors.
+# Distro Color Logos
+The Logos used on the menu Icons but in different colors using the Yaru Color scheme to base those colors. All rights go to whatever distro for the distrobution and brand itself. I just like pretty colors and who can blame me for that.
 
 **Mint Modern:**
+![lm-logo-modern](https://github.com/jma1795/distro-color-wheels/assets/88217087/36fcd4dc-4d70-441a-bf81-3eb3dd594fa4)
 
-![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/119f32d9-7dce-4999-bf4e-82692990c876)
 
 **Mint Cool:**
 
-![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/93a50894-7fea-4b3a-a1d4-c45e9cbc19d7)
+![lm-logo-cool](https://github.com/jma1795/distro-color-wheels/assets/88217087/8dd4c1d2-8db1-4a88-a9a1-77d26df6e5be)
+
 
 **Mint Classic:**
 
-![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/f897e5b4-6758-40e6-be37-6a02549cdb85)
+![lm-logo-classic](https://github.com/jma1795/distro-color-wheels/assets/88217087/5cdc52f4-fbc6-4acc-b9ad-c238d06081c0)
+
 
 **Mint Radical:**
 
-![image](https://github.com/jma1795/mint-logo-colors/assets/88217087/586cd1c6-4179-46a3-a174-8b4facdd1435)
+![lm-logo-radical](https://github.com/jma1795/distro-color-wheels/assets/88217087/4e7c74aa-44d4-44d0-aab2-0f48fe085560)
+
+
+**Pop_OS!:**
+![Pop_OS!](https://github.com/jma1795/distro-color-wheels/assets/88217087/6b39fe2d-7ce5-489a-8697-31e6241cb3f5)
 
 
 **Hex-Color codes of all base colors**   
